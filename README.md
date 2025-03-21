@@ -10,17 +10,17 @@
 
 > ## 🛠 Tech Stack
 
-  ### Frontend :
+  #### Frontend :
 - React.js
 - Axios (for API calls)
 -  React Router (for navigation)
   
- ### Backend :
+ #### Backend :
 - Node.js
 - Express.js
 - MongoDB (Mongoose ORM)
   
- ### Other Tools :
+ #### Other Tools :
 - Postman (API testing)
 - CORS (Cross-Origin Resource Sharing)
 - dotenv (Environment variables)
