@@ -19,13 +19,11 @@
 - Node.js
 - Express.js
 - MongoDB (Mongoose ORM)
-
-  >#### before use that Create a .env file in the root and add:
-      MONGO_URI=mongodb://localhost:27017/your-db
   
  #### Other Tools :
 - Postman (API testing)
 - CORS (Cross-Origin Resource Sharing)
 - dotenv (Environment variables)
 
-
+>#### before use that Create a .env file in the root and add:
+      MONGO_URI=mongodb://localhost:27017/your-db
