@@ -1,4 +1,4 @@
-># CRUD Operation with React and Node - Student Management
+># Student Management System 
 - A Student Management System using React.js (frontend) and Node.js with Express & MongoDB (backend). This project demonstrates basic CRUD operations (Create, Read, Update, Delete) for managing student details like name, age, course, and marks.
   
 >## 🚀 Features
