@@ -25,5 +25,8 @@
 - CORS (Cross-Origin Resource Sharing)
 - dotenv (Environment variables)
 
+
+![Student management system image](https://github.com/user-attachments/assets/93fd496b-7900-4449-a6a5-1dfbd8a5d3ba)
+
 >#### before use that Create a .env file in the root and add:
       MONGO_URI=mongodb://localhost:27017/your-db
